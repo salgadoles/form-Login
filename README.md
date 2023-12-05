@@ -1,20 +1,14 @@
-<<<<<<< HEAD
-# SOBRE O PROJETO
-* Projeto proposto pelo docente Leonardo de fundamentos de desenvolvimento web, onde com as tecnologias do BOOTSTRAP 5 nos feriamos
-um formulario de cadastro.
+<h1 align=center>Projeto - Tela de Login</h1>
 
-# METODOLOGIA
-* Nos foi pedido para fazermos uma pesquisa em sites diversos, anotando as informacões de cadastro de cada  para usarmos como base para o nosso formulario, foram usados 3 sites como referencia.
-=======
-# form-Login
-trabalho apresentado pelo docente leonardo da diciplina de fundamentos web, foi solicitado um formulario de cadastro com as seguintes informações.
-email 
-senha 
-botão(acessar)
+> Projeto proposto pelo docente Leonardo de fundamentos de desenvolvimento web, onde com as linguagens de HTML E CSS nos feriamos um formulario de cadastro.
+#
+<h2 align=center>Metodologia</h2>
 
-TECNOLOGIAS USADAS 
-HTML5
-CSS3 
-GIT
-GITHUB
->>>>>>> 5390d97796f5a4b99661b9fdb69ae409d8c54d49
+>> Foi proposto que fosse feito um formulario de contato com os seguintes campos. Email, senha e botão de login.
+
+<h2 align=center>TECNOLOGIAS USADAS</h2>
+
+* HTML5
+* CSS3 
+* GIT
+* GITHUB
